@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gethaishil.github.io/sitemap
+Sitemap: https://gethaishil.github.io/app/sitemap
+Sitemap: https://gethaishil.github.io/assets/sitemap
+Sitemap: https://gethaishil.github.io/css/sitemap
+Sitemap: https://gethaishil.github.io/includes/sitemap
+Sitemap: https://gethaishil.github.io/item/sitemap
+Sitemap: https://gethaishil.github.io/src/sitemap
